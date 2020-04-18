@@ -5,11 +5,14 @@ import java.io.InputStream;
 import java.sql.SQLException;
 import java.util.Properties;
 
+import oracle.jdbc.pool.OraclePooledConnection;
+
 public class DemoApp {
 
 	public static void main(String[] args) {
 		InputStream is=null;
 	    Properties props=null;
+	    
 		try {
 		    //locat properies
 		  is=new FileInputStream("src/com/nt/commons/info.properties");
