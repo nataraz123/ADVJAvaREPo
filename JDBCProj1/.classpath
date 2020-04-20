@@ -7,5 +7,7 @@
 	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/commons-io-2.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/excelDriver/lib/Excel_JDBC30.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/textDrver/lib/Text_JDBC30.jar"/>
+	<classpathentry kind="lib" path="E:/NTAJ412-Final/oracle.jar"/>
+	<classpathentry kind="lib" path="C:/IDSServer/classes"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
